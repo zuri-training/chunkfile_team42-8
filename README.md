@@ -1,9 +1,9 @@
 # chunkfile_team42
-Team 42 is engaged in building a platform that manipulates files with emphasis on chunking large csv and json files.
+Team 42 is engaged in building a platform that manipulates files with emphasis on chunking large CSV and JSON files.
 
 # Welcome
 
-Welcome to Splita doc, we are working to create a simple and user friendly platform that splits csv and json files. Below is a short guide to help you through the splitting process.
+Welcome to Splita doc, we are working to create a simple and user friendly platform that splits CSV and JSON files. Below is a short guide to help you through the splitting process.
 
 # Our Solution
 
@@ -15,4 +15,4 @@ Splita is a free web platform,however  to be able to perform all the above ,the 
 
 # Technical Issues
 
-Splita has been designed to be user -friendly and we tackle any technical issues. However, in the event where you face an unfortunate technical issue,contact.support and our technical support team will contact you and we will be able to come up with a solution as fast as possible. 
+Splita has been designed to be user -friendly and we tackle any technical issues. However, in the event where you face an unfortunate technical issue,contact Support and our Technical Support team will contact you and we will be able to come up with a solution as fast as possible. 
